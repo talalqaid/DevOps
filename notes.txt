@@ -1,0 +1,7 @@
+1- create azure web app without deployment
+2- create managed identities
+3- create DevOp project
+4- create a repo
+5- push your project to this repo from local computer
+6- create a service connection to connect to azure resource group and managed id
+7- create the pipelines and don't forgot two things the service connection name and the service name of the web app in azure and use the yaml files provided
